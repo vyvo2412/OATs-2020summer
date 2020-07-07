@@ -13,5 +13,6 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Name|GitHub Handle|
 |---|---|
 |Georg|@GeorgLink|
+|Mark|mkemnitz1995
 
 Just add a line above to add yourself. :)
