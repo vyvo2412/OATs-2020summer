@@ -18,4 +18,5 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Bryan|Biretanaramirez|
 |Stephen|George|
 |Todd|@ToddTrost|
+|Lee|leebuhrmann
 Just add a line above to add yourself. :)
