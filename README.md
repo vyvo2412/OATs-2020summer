@@ -24,5 +24,6 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Toluwa|DanGanGalaxy|
 |Logan|Logann120|
 |Tommy|@tjtucker|
+|Dan|Azncowboy|
 
 Just add a line above to add yourself. :)
