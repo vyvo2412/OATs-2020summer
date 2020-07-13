@@ -31,6 +31,7 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Yanni|ZonWang|
 |Nick|mynamenick|
 |Makayla|Mnix56|
+|Randon|RanAngell|
 |Jacob|@jacobthehammer|
 
 Just add a line above to add yourself. :)
